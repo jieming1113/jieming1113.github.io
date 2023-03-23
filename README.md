@@ -1,2 +1,2 @@
-# jieming1113.github.io
-academic website
+# jiachenli94.github.io
+Jiachen Li's personal website. Please refer to https://jiachenli94.github.io
